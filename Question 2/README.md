@@ -1,2 +1,1 @@
-# Calci-affordmed
-Average calculator in http microservice
+#Average calculator in http microservice
